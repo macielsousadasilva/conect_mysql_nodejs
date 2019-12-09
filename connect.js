@@ -2,8 +2,8 @@ const Sequelize = require('sequelize');
 
 //Cria os parametros de conexão
 const sequelize = new Sequelize('db_nodejs','usuario','senha', {
-    host: "192.168.64.3",//localhost
-    dialect: "mariadb",
+    host: "localhost",//localhost
+    dialect: "mysql",
     dialectOptions: {connectTimeout: 1000}
 })
 
