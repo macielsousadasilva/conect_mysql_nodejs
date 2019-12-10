@@ -1,6 +1,9 @@
 # Conectando mysql com sua aplicação Node.js utilizando sequelize
 <br>
 Para tudo funcionar e necessário utilizar:
+
+Crie uma conexão de banco de dados com o nome -> db_nodejs
+(utilize o da sua preferencia da nuvem ou localmente)
 <br><br>
 Express
 <br>
